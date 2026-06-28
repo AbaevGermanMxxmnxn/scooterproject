@@ -1,6 +1,6 @@
 Whoosh Neural Core
 Описание проекта
-
+http://new-ai-education.online/
 Whoosh Neural Core — микросервис для управления парком электросамокатов, разработанный на FastAPI с использованием PostgreSQL и Docker.
 
 Проект предоставляет REST API для выполнения базовых операций над самокатами (CRUD), а также автоматически генерирует документацию API через Swagger.
